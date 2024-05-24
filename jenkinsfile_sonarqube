@@ -19,7 +19,7 @@ node {
                              -Dsonar.projectKey=demo-project \
                              -Dsonar.sources=. \
                              -Dsonar.host.url=http://10.0.2.15:9000 \
-                             -Dsonar.login=squ_e387fb18b54306fccbcd7226de7ba94980e93d88
+                             -Dsonar.login=
              """
         }
      }
